@@ -1,0 +1,24 @@
+body {
+<<<<<<< HEAD
+  background: #fff8ee;
+  margin: 0;
+  font-family: 'Noto Sans', sans-serif;
+=======
+  background: #c2d0df;
+  margin: 0;
+  /* font-family: 'Noto Sans', sans-serif; */
+  font-family: 'Roboto Mono', monospace;
+>>>>>>> master
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+<<<<<<< HEAD
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+=======
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Roboto Mono', monospace;
+>>>>>>> master
+}
